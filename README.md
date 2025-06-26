@@ -1,19 +1,37 @@
- # 💫 About Me:
-i am currently working on DSA in C++.<br>i am looking to collaborate on Cloud project with Amazon Web Services.<br>i am lookin for help with Linux Administration.<br>i am currently learning on AI Agents and GO-Lang.<br>Ask me about my enthusiastic nature for technology.<br>fun fact :- BE the best to ever do it.
+ <h1 align="center">Hi 👋, I'm Harsh</h1>
+<h3 align="center">Aspiring Web & Cloud Developer A motivated student with hands-on experience in HTML and CSS for building responsive web pages, proficient in Linux for system operations, and skilled in AWS Cloud services for deploying scalable applications. Comfortable working with Git and GitHub for version control and collaboration. Enthusiastic about emerging technologies like Generative AI (GenAI) and eager to apply them in real-world projects.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-duhan&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-duhan" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshduhan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshduhan120164) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Harshduhan_) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-duhan" alt="harsh-duhan" /></a> </p>
 
-# 💻 Tech Stack:
-![HTML](https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge&logo=HTML%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harsh-duhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-duhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-duhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <a href="https://twitter.com/harshduhan_" target="blank"><img src="https://img.shields.io/twitter/follow/harshduhan_?logo=twitter&style=for-the-badge" alt="harshduhan_" /></a> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Harsh-duhan&icon=8&color=2)](https://visitcount.itsvg.in)
+- 🔭 I’m currently working on **Open source projects**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
+- 🌱 I’m currently learning **HTML, CSS ,LINUX , AWS CLOUD , SQL,GEN-AI**
+
+- 🤝 I’m looking for help with **Web Development projects, Cloud Deployments**
+
+- 📝 I regularly write articles on [https://medium.com/@harshduhan070](https://medium.com/@harshduhan070)
+
+- 💬 Ask me about **Cloud solutions and deployment, Web designing**
+
+- 📫 How to reach me **harshduhan100@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harshduhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshduhan_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh duhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh duhan" height="30" width="40" /></a>
+<a href="https://instagram.com/harshduhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshduhan_" height="30" width="40" /></a>
+<a href="https://medium.com/@harshduhan070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshduhan070" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-duhan&show_icons=true&locale=en&layout=compact" alt="harsh-duhan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-duhan&show_icons=true&locale=en" alt="harsh-duhan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-duhan&" alt="harsh-duhan" /></p>
