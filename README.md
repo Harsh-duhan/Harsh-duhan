@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Aspiring Web & Cloud Developer A motivated student with hands-on experience in HTML and CSS for building responsive web pages, proficient in Linux for system operations, and skilled in AWS Cloud services for deploying scalable applications. Comfortable working with Git and GitHub for version control and collaboration. Enthusiastic about emerging technologies like Generative AI (GenAI) and eager to apply them in real-world projects.</h3>
+<h3 align="center">Aspiring Web & Cloud Developer A motivated student with hands-on experience in HTML, CSS and Javascript for building responsive web pages, proficient in Linux for system operations, and skilled in AWS Cloud services for deploying scalable applications. Comfortable working with Git and GitHub for version control and collaboration. Enthusiastic about emerging technologies like Generative AI (GenAI) and eager to apply them in real-world projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-duhan&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-duhan" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Open source projects**
 
-- 🌱 I’m currently learning **HTML, CSS ,LINUX , AWS CLOUD , SQL,GEN-AI**
+- 🌱 I’m currently learning **HTML, CSS, JS ,LINUX , AWS CLOUD, SQL, GEN-AI**
 
 - 🤝 I’m looking for help with **Web Development projects, Cloud Deployments**
 
