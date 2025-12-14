@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Results-driven Student Developer with hands-on experience creating digital products from concept to deployment. My core stack includes Python for efficient scripting/backend logic and Flutter for cross-platform front-end development. I effectively manage data integrity with MySQL and leverage AWS for scalable cloud infrastructure. Actively exploring Generative AI and advanced UI/UX principles to enhance application performance and innovation.</h3>
+<h3 align="center">Results-driven Student Developer with hands-on knowledge in creating digital products from concept to deployment. My core stack includes Python for efficient scripting/backend logic and Flutter for cross-platform and HTML/CSS/JS for front-end development. I effectively manage data integrity with MySQL and leverage AWS for scalable cloud infrastructure. Actively exploring Generative AI and advanced UI/UX principles to enhance application performance and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-duhan&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-duhan" /> </p>
 
