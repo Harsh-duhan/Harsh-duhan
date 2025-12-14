@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Open source projects**
 
-- 🌱 I’m currently learning **HTML, CSS, JS ,LINUX , AWS CLOUD, SQL, GEN-AI**
+- 🌱 I’m currently learning **Python, HTML, CSS, JS ,LINUX , AWS CLOUD, SQL, SQLite**
 
-- 🤝 I’m looking for help with **Web Development projects, Cloud Deployments**
+- 🤝 Checkout my portfolio : https://harsh-duhan-portfolio.vercel.app/
 
 - 📝 I regularly write articles on [https://medium.com/@harshduhan070](https://medium.com/@harshduhan070)
 
