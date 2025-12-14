@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Aspiring Web & Cloud Developer A motivated student with hands-on experience in HTML, CSS and Javascript for building responsive web pages, proficient in Linux for system operations, and skilled in AWS Cloud services for deploying scalable applications. Comfortable working with Git and GitHub for version control and collaboration. Enthusiastic about emerging technologies like Generative AI (GenAI) and eager to apply them in real-world projects.</h3>
+<h3 align="center">Results-driven Student Developer with hands-on experience creating digital products from concept to deployment. My core stack includes Python for efficient scripting/backend logic and Flutter for cross-platform front-end development. I effectively manage data integrity with MySQL and leverage AWS for scalable cloud infrastructure. Actively exploring Generative AI and advanced UI/UX principles to enhance application performance and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-duhan&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-duhan" /> </p>
 
