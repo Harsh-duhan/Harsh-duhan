@@ -11,13 +11,13 @@ I am seeking opportunities to leverage my technical skills in a challenging engi
 
 - 🔭 I’m currently working on **Open source projects**
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS ,LINUX , AWS CLOUD, SQL, SQLite**
+- 🌱 I’m currently learning **Python, Machine Learning Libraries**
 
 - 🤝 Checkout my portfolio : https://harsh-duhan-portfolio.vercel.app/
 
 - 📝 I regularly write articles on [https://medium.com/@harshduhan070](https://medium.com/@harshduhan070)
 
-- 💬 Ask me about **Cloud solutions and deployment, Web designing**
+- 💬 Ask me about **Artificial Intelligence. Machine learning**
 
 - 📫 How to reach me **harshduhan100@gmail.com**
 
