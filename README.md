@@ -1,5 +1,8 @@
- <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Results-driven Student Developer with hands-on knowledge in creating digital products from concept to deployment. My core stack includes Python for efficient scripting/backend logic and Flutter for cross-platform and HTML/CSS/JS for front-end development. I effectively manage data integrity with MySQL and leverage AWS for scalable cloud infrastructure. Actively exploring Generative AI and advanced UI/UX principles to enhance application performance and innovation.</h3>
+ <h1 align="center">Hi, I'm Harsh</h1>
+<h3 align="center">Aspiring AI/ML Engineer & Developer | Python | Flutter | AWS
+
+I am a motivated developer with a strong Python foundation and a passion for engineering intelligent software. My focus lies in bridging backend logic and data processing with functional application delivery across mobile (Flutter) and web platforms. I am actively exploring machine learning frameworks and Generative AI integration, supported by experience in building APIs, managing MySQL databases, and deploying on AWS cloud infrastructure.
+I am seeking opportunities to leverage my technical skills in a challenging engineering environment focused on data and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-duhan&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-duhan" /> </p>
 
